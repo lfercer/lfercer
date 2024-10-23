@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @lfercer
-- 👀 I’m interested in Bioinformatics and Life Sciences.
-- 🌱 I’m currently learning Bioinformatics and Computational Biology at the University of Bern.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently studying the Master program in Bioinformatics and Computational Biology at the University of Bern.
+- 👀 I’m interested in Bioinformatics and Life Sciences, specifically in projects related to the Pharmaceutical Industry.
 - 📫 How to reach me: lfercer.2014@gmail.com
 
 <!---
